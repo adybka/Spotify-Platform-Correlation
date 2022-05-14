@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Colley"
+  given-names: "Laura"
+- family-names: "Dybka"
+  given-names: "Andrew"
+- family-names: "Gauthier"
+  given-names: "Adam"
+- family-names: "Laboissonniere"
+  given-names: "Jacob"
+- family-names: "Mougeot"
+  given-names: "Alexandre"
+- family-names: "Mowla"
+  given-names: "Nayeeb"
+- family-names: "Dick"
+  given-names: "Kevin"
+- family-names: "Khalil"
+  given-names: "Hoda"
+- family-names: "Wainer"
+  given-names: "Gabriel"
+title: "Spotify-Platform-Correlation"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-05-14
+url: "https://github.com/adybka/Spotify-Platform-Correlation"
